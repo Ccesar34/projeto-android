@@ -50,8 +50,8 @@ header > p{
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
-    padding: 0px 3px 0px 3px;
+    padding-bottom: 40px;
+    padding: 0px 10px 0px 10px;
     text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.416);
 }
 nav{
